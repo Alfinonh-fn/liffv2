@@ -1,1 +1,2 @@
-# liffv2
+# liff
+Public Liff
