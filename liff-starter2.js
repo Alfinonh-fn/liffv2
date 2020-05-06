@@ -1,9 +1,9 @@
 window.onload = function() {
     const useNodeJS = false;   // if you are not using a node server, set this value to false
-    const defaultLiffId = "1654055086-BoD0ExEX";   // change the default LIFF value if you are not using a node server
+    const defaultLiffId = "1654141132-GoN4jwJL";   // change the default LIFF value if you are not using a node server
 
     // DO NOT CHANGE THIS
-    let myLiffId = "1654055086-BoD0ExEX";
+    let myLiffId = "1654141132-GoN4jwJL";
 
     // if node is used, fetch the environment variable and pass it to the LIFF method
     // otherwise, pass defaultLiffId
