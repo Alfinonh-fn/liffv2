@@ -101,7 +101,7 @@ function registerButtonHandlers() {
     // openWindow call
     document.getElementById('openWindowButton').addEventListener('click', function() {
         liff.openWindow({
-            url: 'https://alfinonh.herokuapp.com/', // Isi dengan Endpoint URL aplikasi web Anda
+            url: 'https://alfinonh2.herokuapp.com/', // Isi dengan Endpoint URL aplikasi web Anda
             external: true
         });
     });
